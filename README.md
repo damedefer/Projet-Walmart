@@ -10,6 +10,8 @@ Projet d etude sur les données des ventes d'un magasin d'appareil Electronique.
 *Nombre de vente des produits
 *Chiffre d'affaire global et regionale 
 *Seuil de demande(Val moyenne des commandes)
+*Nombre de stock total
+*Nombre de stock en rupture
      
 # Strategie
 
